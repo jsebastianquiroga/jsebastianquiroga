@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @jsebastianquiroga: I speak Spanish, Portuguese and English.
+- 👋 Hi, I'm @jsebastianquiroga: I am an Spanish, Portuguese and English spekear.
 - 👀 I'm interested in Deep Learning and NPL
 - 🌱 I'm currently doing a master degree in Artificial Intelligence.
 - 💞️ I'm looking to collaborate in projects to improve people's lives.
