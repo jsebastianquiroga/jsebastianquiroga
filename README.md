@@ -1,10 +1,5 @@
-- 👋 Hi, I'm @jsebastianquiroga: I am an Spanish, Portuguese and English spekear.
-- 👀 I'm interested in Deep Learning and NPL
-- 🌱 I'm currently doing a master degree in Artificial Intelligence.
-- 💞️ I'm looking to collaborate in projects to improve people's lives.
-- 📫 you can email me at quiroga.juansebastian@gmail.com, or contact me through my LinkedIn https://www.linkedin.com/in/juan-quiroga-923bb0a8/
-
-<!---
-jsebastianquiroga/jsebastianquiroga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm Juan Sebastian Quiroga, a multilingual professional fluent in Spanish, Portuguese, and English.
+🔎 My passions lie in Deep Learning and Natural Language Processing (NLP), as I'm captivated by the power of AI and its potential to transform the world.
+🎓 Currently, I'm pursuing a master's degree in Artificial Intelligence to deepen my expertise and stay at the cutting edge of this exciting field.
+🤝 I'm eager to collaborate on meaningful projects that have a positive impact on people's lives, harnessing the power of AI and technology for the greater good.
+📬 Feel free to reach out to me via email at quiroga.juansebastian@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/juan-quiroga-923bb0a8/
